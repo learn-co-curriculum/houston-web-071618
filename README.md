@@ -6,3 +6,4 @@
 1. [Hashketball Review](https://youtu.be/Qfn0erM6DpA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/01-hashketball-review)
 2. [Hashes and the Internet](https://youtu.be/HuGMUmDiKtg) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/02-hashes-and-the-internet)
 3. [Introduction to Object Orientation](https://youtu.be/QDhfjjLwmuk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/03-intro-oo)
+4. [One to Many Relationships](https://youtu.be/5vi2feSvdWw) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/04-one-to-many)
