@@ -7,6 +7,7 @@
 2. [Hashes and the Internet](https://youtu.be/HuGMUmDiKtg) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/02-hashes-and-the-internet)
 3. [Introduction to Object Orientation](https://youtu.be/QDhfjjLwmuk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/03-intro-oo)
 4. [One to Many Relationships](https://youtu.be/5vi2feSvdWw) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/04-one-to-many)
+<<<<<<< HEAD
 5. [Many to Many Relationships](https://www.youtube.com/watch?v=wAHcLYMrJ58&feature=youtu.be) [Part 2](https://youtu.be/LteaQgHlxFc) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/05-many-to-many)
 6. [Inheritance](https://youtu.be/GB3JwKfPu4A) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/06-inheritance)
-7. [Intro to SQL]() | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/07-sql-intro)
+7. [Intro to SQL](https://youtu.be/0jp9Vef9n30) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/07-sql-intro)
