@@ -11,4 +11,5 @@
 6. [Inheritance](https://youtu.be/GB3JwKfPu4A) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/06-inheritance)
 7. [Intro to SQL](https://youtu.be/0jp9Vef9n30) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/07-sql-intro)
 8. [Bridging Ruby and SQL/Intro to ORMs](https://youtu.be/7V14NukSpTM) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/08-bridging-ruby-and-sql)
-8. [Intro to ActiveRecord](https://www.youtube.com/watch?v=REd_D94e0ak&feature=youtu.be) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/09-active-record-intro)
+9. [Intro to ActiveRecord](https://www.youtube.com/watch?v=REd_D94e0ak&feature=youtu.be) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/09-active-record-intro)
+10. [ActiveRecord Associations](https://youtu.be/6QgRC2H27Z8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/10-active-record-associations)
