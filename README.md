@@ -17,7 +17,6 @@
 9. [Intro to ActiveRecord](https://www.youtube.com/watch?v=REd_D94e0ak&feature=youtu.be) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/09-active-record-intro)
 10. [ActiveRecord Associations](https://youtu.be/6QgRC2H27Z8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/10-active-record-associations)
 11. [Test Driven Development](https://youtu.be/eyFD0mTGktc) | [Code](https://github.com/Joshua-Miles/tdd-ruby-code)
-<<<<<<< HEAD
 
 #### Module 2
 
