@@ -22,3 +22,4 @@
 
 13. [Intro to Sinatra/MVC](https://youtu.be/lJvp2k9Rbr8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/13-sinatra-mvc-intro)
 14. [Sinatra Forms and REST](https://youtu.be/au-4QPuXCsE) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/14-sinatra-forms-rest)
+15. [Sinatra Forms and Associated Objects](https://youtu.be/JQIzGT7a1Gk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/15-sinatra-forms-associations)
