@@ -24,3 +24,4 @@
 14. [Sinatra Forms and REST](https://youtu.be/au-4QPuXCsE) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/14-sinatra-forms-rest)
 15. [Sinatra Forms and Associated Objects](https://youtu.be/JQIzGT7a1Gk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/15-sinatra-forms-associations)
 16. [Intro to Rails](https://youtu.be/Qxj8QCfV6Qk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/16-intro-to-rails)
+17. [Rails Forms and REST](https://youtu.be/hFnOI66G12o) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/17-rails-forms-rest)
