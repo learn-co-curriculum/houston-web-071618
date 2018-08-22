@@ -27,3 +27,4 @@
 17. [Rails Forms and REST](https://youtu.be/hFnOI66G12o) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/17-rails-forms-rest)
 18. [Rails Associations](https://youtu.be/8yZVGpPs0a4) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/18-rails-associations)
 19. [Sessions and Cookies](https://youtu.be/RzJo9an3WR8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/19-sessions-and-cookies)
+20. [Rails Authentication and Authorization](https://youtu.be/BQQCoOfeAWI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/20-rails-authentication-authorization)
