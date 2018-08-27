@@ -20,11 +20,15 @@
 
 #### Module 2
 
-13. [Intro to Sinatra/MVC](https://youtu.be/lJvp2k9Rbr8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/13-sinatra-mvc-intro)
-14. [Sinatra Forms and REST](https://youtu.be/au-4QPuXCsE) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/14-sinatra-forms-rest)
-15. [Sinatra Forms and Associated Objects](https://youtu.be/JQIzGT7a1Gk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/15-sinatra-forms-associations)
-16. [Intro to Rails](https://youtu.be/Qxj8QCfV6Qk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/16-intro-to-rails)
-17. [Rails Forms and REST](https://youtu.be/hFnOI66G12o) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/17-rails-forms-rest)
-18. [Rails Associations](https://youtu.be/8yZVGpPs0a4) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/18-rails-associations)
-19. [Sessions and Cookies](https://youtu.be/RzJo9an3WR8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/19-sessions-and-cookies)
-20. [Rails Authentication and Authorization](https://youtu.be/BQQCoOfeAWI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/20-rails-authentication-authorization)
+12. [Intro to Sinatra/MVC](https://youtu.be/lJvp2k9Rbr8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/13-sinatra-mvc-intro)
+13. [Sinatra Forms and REST](https://youtu.be/au-4QPuXCsE) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/14-sinatra-forms-rest)
+14. [Sinatra Forms and Associated Objects](https://youtu.be/JQIzGT7a1Gk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/15-sinatra-forms-associations)
+15. [Intro to Rails](https://youtu.be/Qxj8QCfV6Qk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/16-intro-to-rails)
+16. [Rails Forms and REST](https://youtu.be/hFnOI66G12o) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/17-rails-forms-rest)
+17. [Rails Associations](https://youtu.be/8yZVGpPs0a4) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/18-rails-associations)
+18. [Sessions and Cookies](https://youtu.be/RzJo9an3WR8) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/19-sessions-and-cookies)
+19. [Rails Authentication and Authorization](https://youtu.be/BQQCoOfeAWI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/20-rails-authentication-authorization)
+
+#### Module 3
+
+20. [Introduction to JavaScript](https://youtu.be/iQNlYN1luNs) | _No code_
