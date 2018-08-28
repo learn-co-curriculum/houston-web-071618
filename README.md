@@ -32,3 +32,4 @@
 #### Module 3
 
 20. [Introduction to JavaScript](https://youtu.be/iQNlYN1luNs) | _No code_
+21. [Functional JavaScript](https://youtu.be/ZukKfqqv0dA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/21-functional-js)
