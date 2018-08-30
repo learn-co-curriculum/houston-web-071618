@@ -34,3 +34,4 @@
 20. [Introduction to JavaScript](https://youtu.be/iQNlYN1luNs) | _No code_
 21. [Functional JavaScript](https://youtu.be/ZukKfqqv0dA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/21-functional-js)
 21. [DOM and Events](https://youtu.be/5u9MA8XAy6g) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/22-intro-to-dom)
+21. [AJAX and Fetch](https://youtu.be/ad-uVtUkuYE) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/23-ajax-fetch)
