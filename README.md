@@ -36,4 +36,5 @@
 22. [DOM and Events](https://youtu.be/5u9MA8XAy6g) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/22-intro-to-dom)
 23. [AJAX and Fetch](https://youtu.be/ad-uVtUkuYE) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/23-ajax-fetch)
 24. [Object Oriented JavaScript](https://youtu.be/E67f9WId5Xs) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/24-oo-javascript)
+25. [Bind, call and apply](https://www.youtube.com/watch?v=G_mcR956TPA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/25-bind-call-apply)
 
