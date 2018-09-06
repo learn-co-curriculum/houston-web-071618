@@ -38,4 +38,5 @@
 24. [Object Oriented JavaScript](https://youtu.be/E67f9WId5Xs) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/24-oo-javascript)
 25. [Bind, call and apply](https://www.youtube.com/watch?v=G_mcR956TPA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/25-bind-call-apply)
 26. [Toy Tale Review](https://youtu.be/ONYii2GFCAc) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/26-review-toy-tale)
-27. [TaskLister Review](https://youtu.be/GqInm9ydxbo) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/26-review-tasklister)
+27. [TaskLister Review](https://youtu.be/GqInm9ydxbo) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/27-review-tasklister)
+28. [Tim Woof Woof JS](https://youtu.be/y-N5gCwvDFk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/28-tim-woof-woof)
