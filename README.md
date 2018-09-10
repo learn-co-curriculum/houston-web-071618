@@ -40,3 +40,4 @@
 26. [Toy Tale Review](https://youtu.be/ONYii2GFCAc) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/26-review-toy-tale)
 27. [TaskLister Review](https://youtu.be/GqInm9ydxbo) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/27-review-tasklister)
 28. [Tim Woof Woof JS](https://youtu.be/y-N5gCwvDFk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/28-tim-woof-woof)
+29. [Rails API](https://youtu.be/9vMRcB9fs5Y) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/29-rails-api)
