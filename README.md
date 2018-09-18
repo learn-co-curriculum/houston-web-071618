@@ -46,3 +46,4 @@
 
 30. [Intro to React](https://youtu.be/IsF2G6Z1SsI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/30-intro-react)
 31. [React Props](https://youtu.be/8zq8Y6x1tTo) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/31-react-props)
+32. [React State, Events, Forms](https://youtu.be/PdLNkbVAf4I) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/32-react-state)
