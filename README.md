@@ -47,4 +47,4 @@
 30. [Intro to React](https://youtu.be/IsF2G6Z1SsI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/30-intro-react)
 31. [React Props](https://youtu.be/8zq8Y6x1tTo) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/31-react-props)
 32. [React State, Events, Forms](https://youtu.be/PdLNkbVAf4I) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/32-react-state)
-33. [Thinking in React p1](https://youtu.be/sDy_cY6gn_4) / [Thinking in React p2]() | [Code p1](https://github.com/learn-co-students/houston-web-071618/tree/f3dc1e25499ed3983a39332aed620a5e38a8b880/33-react-thoughts) / [Code p2]()
+33. [Thinking in React p1](https://youtu.be/sDy_cY6gn_4) / [Thinking in React p2](https://youtu.be/BiyBfi146-U) | [Code p1](https://github.com/learn-co-students/houston-web-071618/tree/f3dc1e25499ed3983a39332aed620a5e38a8b880/33-react-thoughts) / [Code p2](https://github.com/learn-co-students/houston-web-071618/tree/master/33-react-thoughts)
