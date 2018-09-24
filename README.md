@@ -50,3 +50,4 @@
 33. [Thinking in React p1](https://youtu.be/sDy_cY6gn_4) / [Thinking in React p2](https://youtu.be/BiyBfi146-U) | [Code p1](https://github.com/learn-co-students/houston-web-071618/tree/f3dc1e25499ed3983a39332aed620a5e38a8b880/33-react-thoughts) / [Code p2](https://github.com/learn-co-students/houston-web-071618/tree/master/33-react-thoughts)
 34. [React Component Lifecycle](https://youtu.be/d1P1tonghCA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/34-react-lifecycle)
 35. Hogwarts Review [Parts I](https://youtu.be/oexZF52Wx60) [and II](https://youtu.be/DyhvCdnwf2U) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/35-react-hogwarts-review)
+36. [Youtubr - Tim](https://youtu.be/DAQ0SBhvTIQ) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/36-react-youtubr-tim)
