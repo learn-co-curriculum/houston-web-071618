@@ -52,3 +52,4 @@
 35. Hogwarts Review [Parts I](https://youtu.be/oexZF52Wx60) [and II](https://youtu.be/DyhvCdnwf2U) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/35-react-hogwarts-review)
 36. [Youtubr - Tim](https://youtu.be/DAQ0SBhvTIQ) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/36-react-youtubr-tim)
 37. [React Router](https://youtu.be/PBFUZt2xhVI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/37-react-router)
+38. [JWT - Client](https://youtu.be/hu7es6jY2tI) / [JWT - Server](https://youtu.be/vsG50pQKfNg) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/38-jwt-auth)
