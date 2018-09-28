@@ -51,3 +51,4 @@
 34. [React Component Lifecycle](https://youtu.be/d1P1tonghCA) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/34-react-lifecycle)
 35. Hogwarts Review [Parts I](https://youtu.be/oexZF52Wx60) [and II](https://youtu.be/DyhvCdnwf2U) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/35-react-hogwarts-review)
 36. [Youtubr - Tim](https://youtu.be/DAQ0SBhvTIQ) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/36-react-youtubr-tim)
+37. [React Router](https://youtu.be/PBFUZt2xhVI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/37-react-router)
