@@ -54,3 +54,4 @@
 37. [React Router](https://youtu.be/PBFUZt2xhVI) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/37-react-router)
 38. [JWT - Client](https://youtu.be/hu7es6jY2tI) / [JWT - Server](https://youtu.be/vsG50pQKfNg) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/38-jwt-auth)
 39. Redux [Parts I,](https://www.youtube.com/watch?v=k-6MMi9TIpo) [II,](https://www.youtube.com/watch?v=rq_5J1LnBt8) [ and III](https://youtu.be/z6PB7sFn3Is) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/39-redux-intro/food-ranker) | [Boozer Redux](https://github.com/Joshua-Miles/boozer-redux)
+40. [Thunk](https://youtu.be/0LWEOhXBgns) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/40-redux)
