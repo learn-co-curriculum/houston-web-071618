@@ -56,3 +56,4 @@
 39. Redux [Parts I,](https://www.youtube.com/watch?v=k-6MMi9TIpo) [II,](https://www.youtube.com/watch?v=rq_5J1LnBt8) [ and III](https://youtu.be/z6PB7sFn3Is) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/39-redux-intro/food-ranker) | [Boozer Redux](https://github.com/Joshua-Miles/boozer-redux)
 40. [Thunk](https://youtu.be/0LWEOhXBgns) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/40-redux)
 41. [Implementing Redux, Hashketball Returns](https://youtu.be/RGTDzNNfmh4) | [Code](https://github.com/HumzahChoudry/hasketball-returns/tree/post-lecture-houston)
+42. [Active Storage Walkthrough w/ React (no audio)](https://youtu.be/aN20KNriX50) | [Backend Code](https://github.com/learn-co-curriculum/active-storage-backend-buffalo-sweater) / [Frontend Code](https://github.com/learn-co-curriculum/active-storage-frontend-buffalo-sweater)
