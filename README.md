@@ -61,3 +61,5 @@
 #### Module 4.5
 
 43. [Intro to Redux](https://youtu.be/-9olBh9NTE4) | [Code](https://github.com/learn-co-students/houston-071618a-intro-to-redux)
+44. [Redux Thunk (Prefer the previous video and code)](https://youtu.be/1_0Y2Bj-FbU)
+45. [Deployment](https://youtu.be/drCdYeEwjd4)
