@@ -63,5 +63,5 @@
 43. [Intro to Redux](https://youtu.be/-9olBh9NTE4) | [Code](https://github.com/learn-co-students/houston-071618a-intro-to-redux)
 44. [Redux Thunk (Prefer the previous video and code)](https://youtu.be/1_0Y2Bj-FbU)
 45. [Deployment](https://youtu.be/drCdYeEwjd4)
-46. [Redux Workshop (Rough Video- Prefer Videos)](https://www.youtube.com/channel/UCcXU0aTK-mIJ1CB8jnx5_HQ/videos) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/46-redux-review)
+46. [Redux Workshop (Rough Video- Prefer Older Videos)](https://www.youtube.com/watch?v=EUQxw2RDjvk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/46-redux-review)
 47. [Data Structures](https://youtu.be/E1ajSC2OQlk) | [Code](https://github.com/learn-co-students/houston-web-071618/tree/master/47-intro-to-data-structures)
